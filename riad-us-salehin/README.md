@@ -2,7 +2,7 @@
 #### Links:
 - [Excluded Hadith 7](seven_hadith_not_included.md)
 - [Online book](https://sunnah.com/riyadussalihin)
-- [Brief of Hadith Codification](Brief_of_Hadith_codification.md)
+- [Brief of Hadith Codification](01_Brief_of_Hadith_codification.md) | [Translated Summary](03_Translate_of_Hadith_Codification.md)
 
 ## 📖 Riyāḍ as-Sāliḥīn — Introduction
 
