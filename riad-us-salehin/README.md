@@ -1,6 +1,7 @@
 ## Day 1: Introduction:
 #### Links:
 - [Excluded Hadith 7](seven_hadith_not_included.md)
+- [Online book](https://sunnah.com/riyadussalihin)
 
 ## 📖 Riyāḍ as-Sāliḥīn — Introduction
 
