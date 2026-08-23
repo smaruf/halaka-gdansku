@@ -1,6 +1,7 @@
 # halaka-gdansku
 Weekly Halaka in Gdansk Masajid
-- Quran: 
+- Quran:
+  - [Learning Quran](https://github.com/smaruf/python-study/blob/main/src/learning-arabic/README.md) 
 - Sirah: 
 - Tafsir:
 - Hadith:
