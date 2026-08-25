@@ -8,7 +8,7 @@
 > * **Hadith:** On the authority of Abu Yahya Suhayb ibn Sinan (may Allah be pleased with him), the Messenger of Allah (peace and blessings be upon him) said: "How amazing is the affair of the believer! Indeed, all of his affairs are good, and this is for none other than the believer: If prosperity touches him, he is grateful, and that is good for him; and if adversity touches him, he is patient, and that is good for him." [Narrated by Muslim]
 * **Commentary:** In this Hadith lies the virtue of gratitude in times of ease and patience in times of hardship. Whoever acts upon this attains the good of both worlds. But whoever fails to show gratitude for a blessing and fails to be patient during a calamity misses out on the reward and incurs sin.
 
-###!**Polish**
+### **Polish**
 
 > * **Hadis:** Od Abu Yahya Suhayba ibn Sinana (niech Allah będzie z niego zadowolony) przekazano, że Wysłannik Allaha (pokój i błogosławieństwo Allaha z nim) powiedział: „Niezwykła jest sprawa wierzącego! Zaprawdę, każda jego sprawa jest dla niego dobra i nie dotyczy to nikogo innego, jak tylko wierzącego: jeśli spotka go szczęście, jest wdzięczny – i to jest dla niego dobre; a jeśli spotka go nieszczęście, jest cierpliwy – i to również jest dla niego dobre”. [Odnotowane przez Muslima]
 * **Komentarz:** W tym hadisie zawarta jest zaleta okazywania wdzięczności w czasie pomyślności oraz cierpliwości w czasie trudności. Kto tak postępuje, ten uzyskuje dobro tego i przyszłego świata. Natomiast ten, kto nie dziękuje za błogosławieństwo i nie okazywał cierpliwości podczas nieszczęścia, traci nagrodę i ściąga na siebie grzech.
