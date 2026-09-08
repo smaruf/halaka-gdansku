@@ -1,3 +1,5 @@
+[← Back to Hadith List of Days](02_Hadith_List_of_Days.md)
+
 ## Hadith of the day:
 
 ### **English Translation**

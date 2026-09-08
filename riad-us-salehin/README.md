@@ -1,6 +1,7 @@
 ## Day 1: Introduction:
 #### Links:
 - [Excluded Hadith 7](seven_hadith_not_included.md)
+- [Hadith List of Days](02_Hadith_List_of_Days.md)
 - [Online book](https://sunnah.com/riyadussalihin)
 - [Brief of Hadith Codification](01_Brief_of_Hadith_codification.md) | [Translated Summary](03_Translate_of_Hadith_Codification.md)
 
@@ -82,4 +83,3 @@ Do jego najbardziej znanych dzieł należą **Riyāḍ as-Sāliḥīn**, **al-Ar
 [1]: https://sunnah.com/riyadussalihin?utm_source=chatgpt.com "Riyad as-Salihin - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)"
 [2]: https://riyadh.islamenc.com/ar/page/2?transes=en&utm_source=chatgpt.com "ترجمة مؤلف كتاب (رياض الصالحين) العلامة يحيى بن | رياض الصالحين مع فوائد وهدايات"
 [3]: https://dar-us-salam.com/authors/annawawi.htm?utm_source=chatgpt.com "Imam An-Nawawi: Biography, Books & Legacy | Dar-us-Salam"
-
