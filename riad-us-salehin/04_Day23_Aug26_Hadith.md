@@ -1,3 +1,5 @@
+[← Back to Hadith List of Days](02_Hadith_List_of_Days.md)
+
 ## Today's Hadith - Hadith 2
 >
 > "
