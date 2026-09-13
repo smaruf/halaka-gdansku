@@ -21,3 +21,5 @@
 - [Day 09 Sep 26](05_Day09_Sep26_Hadith.md)
 - [Day 10 Sep 26](05_Day10_Sep26_Hadith.md)
 - [Day 11 Sep 26](05_Day11_Sep26_Hadith.md)
+- [Day 12 Sep 26](05_Day12_Sep26_Hadith.md)
+- [Day 13 Sep 26](05_Day13_Sep26_Hadith.md)
