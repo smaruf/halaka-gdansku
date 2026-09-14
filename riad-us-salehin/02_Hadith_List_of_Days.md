@@ -25,4 +25,3 @@
 - [Day 13 Sep 26](05_Day13_Sep26_Hadith.md)
 - [Day 14 Sep 26](05_Day14_Sep26_Hadith.md)
 
-- [Day 13 Sep 26](05_Day13_Sep26_Hadith.md)
