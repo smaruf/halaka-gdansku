@@ -1,0 +1,58 @@
+## Hadith of the day:
+> عن أنس رضي الله عنه عن النَّبيّ صلى الله عليه وسلم قَالَ: ((لا يُؤمِنُ أحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحبُّ لِنَفْسِهِ)). مُتَّفَقٌ عَلَيهِ. 
+في هذا الحديث: دليل على أنه لا يؤمن المسلم حتى يحب لأخيه من الخير والطاعات ما يحب لنفسه. 
+قال ابن الصلاح: وهذا قد يُعَدُّ من الصعب الممتنع، وليس كذلك. إذ معناه لا يكمل إيمان أحدكم حتى يحب لأخيه في الإسلام ما يحب لنفسه. والقيام بذلك يحصل بأنْ يحب له حصول مثل ذلك من جهة لا يزاحمه فيها، بحيث لا ينقص النعمة على أخيه شيئًا من النعمة عليه، وذلك يسهل على القلب السليم، وإنما يعسر على القلب الدغل، عافانا الله من ذلك آمين.
+
+----
+
+### English:
+> Anas (may Allah be pleased with him) reported that the Prophet ﷺ said:
+“None of you truly believes until he loves for his brother what he loves for himself.”
+[Agreed upon – Al-Bukhari and Muslim]
+
+This hadith indicates that a Muslim’s faith is not complete until he loves for his brother the goodness and acts of obedience that he loves for himself.
+
+Ibn al-Salah said: This may seem difficult or even impossible, but it is not. Its meaning is that a person’s faith is not complete until he loves for his Muslim brother what he loves for himself. This can be achieved by wishing for his brother to receive the same blessings without competing with him or causing any reduction in his own blessings.
+
+This is easy for a sound and pure heart, but difficult for a heart affected by malice and corruption. May Allah protect us from that. Ameen.
+
+----
+
+### Polski:
+> Anas (niech Allah będzie z niego zadowolony) przekazał, że Prorok ﷺ powiedział:
+„Żaden z was nie osiągnie pełni wiary, dopóki nie będzie pragnął dla swojego brata tego, czego pragnie dla samego siebie.”
+[Uznany za autentyczny przez Al-Buchariego i Muslima]
+
+Ten hadis wskazuje, że wiara muzułmanina nie jest pełna, dopóki nie pragnie on dla swojego brata takiego samego dobra i dobrych uczynków, jakich pragnie dla siebie.
+
+Ibn as-Salah powiedział: Może się wydawać, że jest to trudne lub wręcz niemożliwe, ale tak nie jest. Oznacza to, że wiara człowieka nie jest pełna, dopóki nie pragnie on dla swojego brata w islamie tego samego, czego pragnie dla siebie. Można to osiągnąć, pragnąc dla niego podobnego dobra w taki sposób, aby nie konkurowało ono z jego własnym dobrem ani nie zmniejszało błogosławieństw żadnej ze stron.
+
+Jest to łatwe dla zdrowego i czystego serca, lecz trudne dla serca dotkniętego zawiścią i zepsuciem. Niech Allah nas od tego chroni. Amin.
+
+----
+
+### Bengali:
+> আনাস (রাদিয়াল্লাহু আনহু) থেকে বর্ণিত, নবী ﷺ বলেছেন:
+“তোমাদের কেউ ততক্ষণ পর্যন্ত পূর্ণ মুমিন হতে পারবে না, যতক্ষণ না সে তার ভাইয়ের জন্য তা-ই ভালোবাসে, যা সে নিজের জন্য ভালোবাসে।”
+[মুত্তাফাকুন আলাইহি — বুখারি ও মুসলিম]
+
+এই হাদিস প্রমাণ করে যে, একজন মুসলিমের ঈমান ততক্ষণ পর্যন্ত পূর্ণ হয় না, যতক্ষণ না সে তার ভাইয়ের জন্য সেই কল্যাণ ও নেক আমল কামনা করে, যা সে নিজের জন্য কামনা করে।
+
+ইবনুস সালাহ (রহ.) বলেছেন: বিষয়টি আপাতদৃষ্টিতে কঠিন বা অসম্ভব মনে হতে পারে, কিন্তু আসলে তা নয়। এর অর্থ হলো, তোমাদের কারও ঈমান ততক্ষণ পর্যন্ত পূর্ণ হয় না, যতক্ষণ না সে তার মুসলিম ভাইয়ের জন্য তা-ই ভালোবাসে, যা সে নিজের জন্য ভালোবাসে। এটি তখনই সম্ভব, যখন সে তার ভাইয়ের জন্য অনুরূপ নিয়ামত কামনা করবে এমনভাবে, যাতে তার নিজের নিয়ামত কমে না যায় এবং তার ভাইয়ের নিয়ামতও ক্ষতিগ্রস্ত না হয়।
+
+এটি সুস্থ ও পবিত্র হৃদয়ের জন্য সহজ, কিন্তু হিংসা ও বিদ্বেষপূর্ণ হৃদয়ের জন্য কঠিন। আল্লাহ আমাদের এ থেকে রক্ষা করুন। আমীন।
+
+----
+
+### Urdu:
+> حضرت انس رضی اللہ عنہ سے روایت ہے کہ نبی کریم ﷺ نے فرمایا:
+”تم میں سے کوئی شخص اس وقت تک کامل مومن نہیں ہو سکتا جب تک وہ اپنے بھائی کے لیے وہی پسند نہ کرے جو اپنے لیے پسند کرتا ہے۔“
+[متفق علیہ — بخاری و مسلم]
+
+اس حدیث سے معلوم ہوتا ہے کہ مسلمان کا ایمان اس وقت تک کامل نہیں ہوتا جب تک وہ اپنے بھائی کے لیے بھی وہی بھلائی اور نیک اعمال پسند نہ کرے جو اپنے لیے پسند کرتا ہے۔
+
+ابن الصلاح رحمہ اللہ نے فرمایا: بظاہر یہ بات مشکل یا ناممکن معلوم ہو سکتی ہے، لیکن حقیقت میں ایسا نہیں ہے۔ اس کا مطلب یہ ہے کہ تم میں سے کسی کا ایمان اس وقت تک کامل نہیں ہوتا جب تک وہ اپنے مسلمان بھائی کے لیے وہی پسند نہ کرے جو اپنے لیے پسند کرتا ہے۔ اس پر عمل اس طرح کیا جا سکتا ہے کہ وہ اپنے بھائی کے لیے بھی ایسی ہی نعمت چاہے، بغیر اس کے کہ اس کی اپنی نعمت میں کوئی کمی آئے یا دونوں کے درمیان مقابلہ ہو۔
+
+یہ بات پاک اور سالم دل کے لیے آسان ہے، لیکن کینہ اور فساد والے دل کے لیے مشکل ہے۔ اللہ ہمیں اس سے محفوظ رکھے۔ آمین۔
+
+----
