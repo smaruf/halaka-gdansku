@@ -34,6 +34,8 @@
 - [Day 23 Sep 26](05_Day23_Sep26_Hadith.md)
 - [Day 24 Sep 26](05_Day24_Sep26_Hadith.md)
 - [Day 26 Sep 26](05_Day26_Sep26_Hadith.md)
+- [Day 27 Sep 26](05_Day27_Sep26_Hadith.md)
+
 
 
 
