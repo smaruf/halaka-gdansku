@@ -40,6 +40,8 @@
 - [Day 30 Sep 26](05_Day30_Sep26_Hadith.md)
 - [Day 01 Oct 26](06_Day01_Oct26_Hadith.md)
 - [Day 03 Oct 26](06_Day03_Oct26_Hadith.md)
+- [Day 04 Oct 26](06_Day04_0ct26_Hadith.md)
+
 
 
 
