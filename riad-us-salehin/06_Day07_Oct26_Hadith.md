@@ -14,4 +14,4 @@ Abu Ṭarīf ʿAdī ibn Ḥātim al-Ṭāʾī (may Allah be pleased with him) re
 
 Meaning: If someone swears an oath to do something or to refrain from doing something, and then realizes that doing something else is better and more pleasing to Allah than continuing to adhere to the oath, then **he should do what is more God-conscious and offer the expiation (kaffārah) for his oath.**
 
-.....
+------------
