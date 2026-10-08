@@ -21,4 +21,4 @@ The statement **“O Allah, to You I have submitted”** means: I have surrender
 
 This hadith teaches us to **turn to Allah and hold firmly to Him**. Whoever seeks honor through anyone other than Allah will ultimately be humbled. Whoever seeks guidance from anything other than His guidance will go astray. And whoever holds firmly to Allah, places his trust in Him, and relies upon Him will attain strength, dignity, and greatness.
 
-••••••••
+-------------
