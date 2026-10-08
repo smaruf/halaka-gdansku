@@ -43,6 +43,7 @@
 - [Day 04 Oct 26](06_Day04_Oct26_Hadith.md)
 - [Day 05 Oct 26](06_Day05_Oct26_Hadith.md)
 - [Day 06 Oct 26](06_Day06_Oct26_Hadith.md)
+- [Day 07 Oct 26](06_Day07_Oct26_Hadith.md)
 - [Day 08 Oct 26](06_Day08_Oct26_Hadith.md)
 
 
