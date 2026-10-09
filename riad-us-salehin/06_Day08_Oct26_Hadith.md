@@ -22,3 +22,22 @@ The statement **“O Allah, to You I have submitted”** means: I have surrender
 This hadith teaches us to **turn to Allah and hold firmly to Him**. Whoever seeks honor through anyone other than Allah will ultimately be humbled. Whoever seeks guidance from anything other than His guidance will go astray. And whoever holds firmly to Allah, places his trust in Him, and relies upon Him will attain strength, dignity, and greatness.
 
 -------------
+
+## Polski: -->
+**Hadis 75**
+
+Ibn Abbas (niech Allah będzie z nich zadowolony) przekazał również:
+
+Wysłannik Allaha ﷺ mawiał:
+
+> **„O Allahu, Tobie się poddałem, Tobie uwierzyłem, Tobie zaufałem, do Ciebie się zwróciłem w skrusze i z Twoją pomocą walczyłem. O Allahu, szukam schronienia w Twojej Potędze; nie ma bóstwa oprócz Ciebie, abyś mnie nie zwiódł. Ty jesteś Wiecznie Żyjący, który nigdy nie umiera, podczas gdy dżiny i ludzkość umierają.”**
+
+*Zgadzam się. To sformułowanie przekazał Muslim, a al-Buchari je skrócił.*
+
+**Wyjaśnienie:**
+
+Stwierdzenie **„O Allahu, Tobie się poddałem”** oznacza: Poddałem się Twojemu osądowi i rozkazowi. Poddałem się, akceptując, wierząc, potwierdzając i będąc pewnym prawdy.
+
+ Ten hadis uczy nas **zwrócić się do Allaha i mocno się Go trzymać**. Kto szuka czci u kogokolwiek innego niż Allah, ostatecznie zostanie upokorzony. Kto szuka przewodnictwa u kogokolwiek innego niż Jego przewodnictwo, zbłądzi. A kto mocno trzyma się Allaha, pokłada w Nim ufność i na Nim polega, osiągnie siłę, godność i wielkość.
+
+--------
