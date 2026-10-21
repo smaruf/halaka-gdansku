@@ -4,7 +4,7 @@
 
 -----
 
-English
+### English
 
 Hadith 96: Anas (may Allah be pleased with him) reported that the Prophet ﷺ narrated from his Lord, the Almighty, saying:
 
@@ -14,7 +14,7 @@ Narrated by Al-Bukhari.
 
 -----
 
-Polish
+### Polish
 
 Hadis 96: Anas (oby Allah był z niego zadowolony) przekazał, że Prorok ﷺ, cytując swojego Pana, Wszechmogącego, powiedział:
 
