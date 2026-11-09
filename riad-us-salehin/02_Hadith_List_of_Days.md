@@ -38,7 +38,7 @@ Dates with a link have a hadith available; unlinked dates have no corresponding 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | --- | --- | --- | --- | --- | --- | --- |
 | | | | | | | 1 |
-| [2](07_Day02_Nov26_Hadith.md) | [3](07_Day03_Nov26_Hadith.md) | [4](07_Day04_Nov26_Hadith.md) | [5](07_Day05_Nov26_Hadith.md) | 6 | [7](07_Day07_Nov26_Hadith.md) | 8 |
+| [2](07_Day02_Nov26_Hadith.md) | [3](07_Day03_Nov26_Hadith.md) | [4](07_Day04_Nov26_Hadith.md) | [5](07_Day05_Nov26_Hadith.md) | 6 | [7](07_Day07_Nov26_Hadith.md) | [8](07_Day08_Nov26_Hadith.md) |
 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
