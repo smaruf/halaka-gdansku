@@ -21,8 +21,7 @@ Allah will forgive his sins, even if they are as abundant as the foam of the sea
 
 ## Polski:
 
-
-:
+Ktokolwiek mówi kładąc się spać:
 
 Nie ma bóstwa godnego czci poza Allahem, Jedynym, który nie ma żadnego wspólnika. Do Niego należy władza i Jemu należy się wszelka chwała. On ma władzę nad każdą rzeczą. Nie ma żadnej siły ani mocy bez Allaha. Chwała Allahowi, wszelka chwała należy do Allaha, nie ma bóstwa godnego czci poza Allahem, a Allah jest Największy.
 
