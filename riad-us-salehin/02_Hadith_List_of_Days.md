@@ -39,7 +39,27 @@ Dates with a link have a hadith available; unlinked dates have no corresponding 
 | --- | --- | --- | --- | --- | --- | --- |
 | | | | | | | 1 |
 | [2](07_Day02_Nov26_Hadith.md) | [3](07_Day03_Nov26_Hadith.md) | [4](07_Day04_Nov26_Hadith.md) | [5](07_Day05_Nov26_Hadith.md) | 6 | [7](07_Day07_Nov26_Hadith.md) | [8](07_Day08_Nov26_Hadith.md) |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| [9](07_Day09_Nov26_Hadith.md) | 10 | 11 | [12](07_Day12_Nov26_Hagith.md) | [13](07_Day13_Nov26_Hadith.md) | [14](07_Day14_Nov26_Hadith.md) | [15](07_Day15_Nov26_Hadith.md) |
+| 16 | [17](07_Day17_Nov26_Hadith.md) | [18](07_Day18_Nov26_Hadith.md) | [19](07_Day19_Nov26_Hadith.md) | [20](07_Day20_Nov26_Hadith.md) | [21](07_Day21_Nov26_Hadith.md) | [22](07_Day22_Nov26_Hadith.md) |
+| [23](07_Day23_Nov26_Hadith.md) | [24](07_Day24_Nov26_Hadith.md) | [25](07_Day25_Nov26_Hadith.md) | [26](07_Day26_Nov26_Hadith.md) | 27 | 28 | 29 |
 | 30 | | | | | | |
+
+## Lessons by Theme (العربية / English / Polski)
+
+| Theme | العربية | English | Polski |
+| --- | --- | --- | --- |
+| Intention & sincerity | الأعمال بالنيات والإخلاص | Deeds are judged by intentions; be sincere | Czyny oceniane są według intencji; bądź szczery |
+| Repentance & forgiveness | باب التوبة مفتوح والله يغفر لمن تاب | The door of repentance is always open; Allah forgives the repentant | Drzwi skruchy są zawsze otwarte; Allah przebacza skruszonym |
+| Trust in Allah & mindfulness | التوكل على الله وحفظه سبب الرزق والحماية | Rely on Allah and be mindful of Him for provision and protection | Polegaj na Allahu i pamiętaj o Nim, by otrzymać zaopatrzenie i ochronę |
+| Gratitude, patience & contentment | الشكر في السراء والصبر في الضراء والقناعة | Be grateful in ease, patient in hardship, and content with what Allah gives | Dziękuj w dobrobycie, bądź cierpliwy w trudnościach i zadowolony z daru Allaha |
+| Charity & kindness | الصدقة وكل معروف، ولو شق تمرة أو ابتسامة | Charity and every good deed count, even half a date or a smile | Jałmużna i każdy dobry uczynek się liczą, nawet pół daktyla czy uśmiech |
+| Brotherhood & good character | حب الخير للأخ وستر العيوب والتواضع وحسن الخلق | Love for others what you love for yourself, conceal faults, be humble and of good character | Pragnij innym tego, czego pragniesz sobie, zakrywaj wady, bądź pokorny i o dobrym charakterze |
+| Truthfulness & honesty | الصدق في القول والبيع يهدي إلى البر والجنة | Truthfulness in speech and trade leads to righteousness and Paradise | Prawdomówność w mowie i handlu prowadzi do prawości i Raju |
+| Beware of this world | الحذر من فتنة الدنيا والظلم والشح | Beware of worldly temptation, injustice and greed | Strzeż się pokus świata, niesprawiedliwości i chciwości |
+| Hasten to good deeds & use time | المبادرة بالأعمال الصالحة واغتنام الصحة والفراغ والعمر | Hasten to good deeds; value health, free time and life before it ends | Spiesz się z dobrymi uczynkami; ceń zdrowie, wolny czas i życie, zanim się skończą |
+| Death & the Hereafter | لا يبقى مع الميت إلا عمله، والجنة والنار قريبتان | Only deeds remain after death; Paradise and the Fire are close | Po śmierci zostają tylko uczynki; Raj i Ogień są blisko |
+| Seeking Allah's nearness | القرب من الله بالعبادة والسجود وقيام الليل | Draw near to Allah through worship, prostration and night prayer | Zbliżaj się do Allaha przez cześć, pokłony i modlitwę nocną |
+| Prayer, wudu & purification | الصلوات والوضوء والجمعة تكفّر الذنوب | Prayers, wudu and Friday prayer expiate sins | Modlitwy, wudu i piątek zmazują grzechy |
+| Supplications & dhikr | الدعاء والذكر عند النوم والخروج وطلب الهدى والنور | Make dhikr and supplication, e.g. before sleep, when leaving home; ask for guidance and light | Czyń dhikr i dua, np. przed snem i przy wyjściu; proś o przewodnictwo i światło |
+| Benefiting people & creation | إماطة الأذى والرفق بالمخلوقات وارتياد المساجد | Remove harm from the road, be kind to all creatures, frequent the mosque | Usuwaj przeszkody z drogi, bądź dobry dla stworzeń, odwiedzaj meczet |
+| Moderation & steadfastness | الاستقامة والاعتدال، والعمل وحده لا ينجي بلا رحمة الله | Be steadfast and moderate; deeds alone do not save without Allah's mercy | Bądź stały i umiarkowany; same uczynki nie zbawiają bez miłosierdzia Allaha |
