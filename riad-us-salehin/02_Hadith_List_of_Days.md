@@ -41,7 +41,7 @@ Dates with a link have a hadith available; unlinked dates have no corresponding 
 | [2](07_Day02_Nov26_Hadith.md) | [3](07_Day03_Nov26_Hadith.md) | [4](07_Day04_Nov26_Hadith.md) | [5](07_Day05_Nov26_Hadith.md) | 6 | [7](07_Day07_Nov26_Hadith.md) | [8](07_Day08_Nov26_Hadith.md) |
 | [9](07_Day09_Nov26_Hadith.md) | 10 | 11 | [12](07_Day12_Nov26_Hagith.md) | [13](07_Day13_Nov26_Hadith.md) | [14](07_Day14_Nov26_Hadith.md) | [15](07_Day15_Nov26_Hadith.md) |
 | 16 | [17](07_Day17_Nov26_Hadith.md) | [18](07_Day18_Nov26_Hadith.md) | [19](07_Day19_Nov26_Hadith.md) | [20](07_Day20_Nov26_Hadith.md) | [21](07_Day21_Nov26_Hadith.md) | [22](07_Day22_Nov26_Hadith.md) |
-| [23](07_Day23_Nov26_Hadith.md) | [24](07_Day24_Nov26_Hadith.md) | [25](07_Day25_Nov26_Hadith.md) | [26](07_Day26_Nov26_Hadith.md) | 27 | 28 | 29 |
+| [23](07_Day23_Nov26_Hadith.md) | [24](07_Day24_Nov26_Hadith.md) | [25](07_Day25_Nov26_Hadith.md) | [26](07_Day26_Nov26_Hadith.md) | [27] (07_Day27_Nov26_Hadith.md) | 28 | 29 |
 | 30 | | | | | | |
 
 ## Lessons by Theme (العربية / English / Polski)
