@@ -43,24 +43,5 @@ In another narration, he said:
 
 “Follow the right course and seek to come as close to perfection as possible. Set out in the morning, in the late afternoon, and during part of the night. Be moderate, be moderate, and you will reach your destination”.
 
-## 2:
-> 
-عن أَبي هريرةَ رضي الله عنه عن النَّبيّ صلى الله عليه وسلم قَالَ: ((إنَّ >  الدِّينَ يُسْرٌ، وَلَنْ يُشَادَّ الدِّيْنُ إلا غَلَبَهُ، فَسَدِّدُوا وَقَارِبُوا وَأبْشِرُوا، وَاسْتَعِينُوا بِالغَدْوَةِ وَالرَّوْحَةِ وَشَيءٍ مِنَ الدُّلْجَةِ)). رواه البخاري. 
-وفي رواية لَهُ: ((سَدِّدُوا وَقَارِبُوا، وَاغْدُوا وَرُوحُوا، وَشَيءٌ مِنَ الدُّلْجَةِ، القَصْدَ القَصْدَ تَبْلُغُوا)). 
-قوله: ((الدِّينُ)): هُوَ مرفوع عَلَى مَا لَمْ يسم فاعله. وروي منصوبًا وروي ((لن يشادَّ الدينَ أحدٌ)). وقوله صلى الله عليه وسلم: ((إلا غَلَبَهُ)): أي غَلَبَهُ الدِّينُ وَعَجَزَ ذلِكَ المُشَادُّ عَنْ مُقَاوَمَةِ الدِّينِ لِكَثْرَةِ طُرُقِهِ. وَ((الغَدْوَةُ)): سير أولِ النهارِ. وَ((الرَّوْحَةُ)): آخِرُ النهارِ. وَ((الدُّلْجَةُ)): آخِرُ اللَّيلِ.
-
-## 
-
-## English:
-
-Abu Hurairah (may Allah be pleased with him) reported that the Prophet ﷺ said:
-
-“Indeed, this religion is easy. No one overburdens himself in the religion except that it overwhelms him. So follow the right course, seek to come as close to perfection as possible, rejoice in the good news, and seek help by worshipping Allah during the morning, the late afternoon, and part of the night”.
-
-Narrated by Al-Bukhari.
-
-In another narration, he said:
-
-“Follow the right course and seek to come as close to perfection as possible. Set out in the morning, in the late afternoon, and during part of the night. Be moderate, be moderate, and you will reach your destination”.
 
 ## 
